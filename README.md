@@ -70,6 +70,7 @@ Essa aplicação utiliza as mais atualizadas ferramentas para desenvolvimento Mo
 4. Execute `expo start` para abrir o App
 5. Execute `yarn json-server server.json -H "192.168.0.105" -p 8000 -d 1000 -w` para abrir o server.json como uma API (No lugar das aspas utilize o IP da Lan do Expo de sua maquina, sem aspas )
 
+
 ## Licença
 
 Esse projeto está licenciado pela MIT License - veja a pagina de detalhes da [Licença](https://opensource.org/licenses/MIT).
